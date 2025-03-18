@@ -3,6 +3,15 @@ I'm highly interested in data analysis, and I have a strong background in geoinf
 
 This is a repository to showcase skills and share my achieved projects in data analytics-related topics.
 
+## Education
+Prince of Songkla University, MSc in Technology and Environmental Management, Jul 2016
+
+Prince of Songkla University, BSc in Environmental Geoinformatics, Mar 2014
+
+## Certificates
+[Google Data Analytics Professional Certificate](https://coursera.org/share/4e0a655f9eaf3befdaa66b1bb233ad89) (April 24, 2023) (Coursera - Google)
+
+
 <!--
 **Kanoksuk-C/kanoksuk-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
