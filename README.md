@@ -4,6 +4,17 @@ I'm highly interested in data analysis, and I have a strong background in geoinf
 This is a repository to showcase skills and share my example achieved projects in data analytics-related topics.
 
 ## Portfolio Projects
+
+### Python Implementation for Ride-Hailing Fare Equation
+The pricing team aimed to model ride-hailing fares using a linear equation based on distance, duration, and a base fare.
+To determine the unknown coefficients, I retrieved ride data from BigQuery and employed a Python linear regression model in Google Colab to derive the optimal fare equation.
+
+**Code:** [Ride-Hailing Fare Equation.ipynb](https://github.com/Kanoksuk-C/portfolio-projects/blob/b94555ef0c8efff16a8d7dac503b2f7a54a8e996/Ride-Hailing%20Fare%20Equation.ipynb)
+
+**Skills:** regression modeling, data analysis, data visualization
+
+**Technology:** Python, Pandas, Numpy, Matplotlib, Scipy, BigQuery, Google Colab
+
 ### Modeling the Potential Impacts of Climate Change on Rice Cultivation Aree (Paddy Field)
 There are 2 objectives of the study, 1) to examine the changes in rice cultivation areas under rainfed and irrigated areas over 2000-2017,
 and 2) to model the potential impacts of climate change on rice cultivation areas. 
