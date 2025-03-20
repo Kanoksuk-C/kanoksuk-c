@@ -27,7 +27,7 @@ The dashboard utilizes boxplots to illustrate trip value distributions and provi
 The pricing team aimed to model ride-hailing fares using a linear equation based on distance, duration, and a base fare.
 To determine the unknown coefficients, I retrieved ride data from BigQuery and employed a Python linear regression model in Google Colab to derive the optimal fare equation.
 
-**Code:** [Ride-Hailing Fare Equation.ipynb](https://github.com/Kanoksuk-C/portfolio-projects/blob/b94555ef0c8efff16a8d7dac503b2f7a54a8e996/Ride-Hailing%20Fare%20Equation.ipynb)
+**Code:** [Ride-hailing Fare Equation.ipynb](https://github.com/Kanoksuk-C/portfolio-projects/blob/12d3f3407d5c78f4772f015df3f8994c6e5dea17/Ride-hailing%20Fare%20Equation.ipynb)
 
 **Skills:** regression modeling, programming, data analysis, data visualization
 
@@ -38,8 +38,8 @@ This project investigated changes in rice cultivation areas (rainfed and irrigat
 I directed two junior researchers in preparing a time series of climate variable data. 
 Machine learning models were then developed using R and the biomod2 package to project future climate suitability changes for rice cultivation in the Central Region of Thailand.
 
-**Code:** [Part-1 Biomod2 Rice Import Data.R](https://github.com/Kanoksuk-C/portfolio-projects/blob/1091f461285b1808d308bd371ce757d07b292b93/Part-1_biomod2_rice_import_dataused.R) 
-, [Part-2 Biomod2 Rice Models and Forecast.R](https://github.com/Kanoksuk-C/portfolio-projects/blob/1091f461285b1808d308bd371ce757d07b292b93/Part-2_biomod2_rice_Builds_Models.R)
+**Code:** [Part-1 Biomod2 Rice Import Data.R](https://github.com/Kanoksuk-C/portfolio-projects/blob/12d3f3407d5c78f4772f015df3f8994c6e5dea17/Part-1_Biomod2_Rice_Import_Data.R) 
+, [Part-2 Biomod2 Rice Models and Forecast.R](https://github.com/Kanoksuk-C/portfolio-projects/blob/12d3f3407d5c78f4772f015df3f8994c6e5dea17/Part-2_Biomod2_Rice_Models_And_Forecast.R)
 
 **Skills:** spatial statistics, data cleaning, data manipulation and processing, machine learning, data visualization
 
@@ -52,7 +52,7 @@ Sentinel-2 imagery was used due to its high spatial and temporal resolution, and
 The Normalized Difference Vegetation Index (NDVI) was calculated and integrated into the model to improve classification accuracy. 
 Despite inherent challenges related to spatial resolution, the project established a workflow for urban land cover classification using advanced remote sensing techniques.
 
-**Code:** [GEE Land Cover Classification Using ML.js](https://github.com/Kanoksuk-C/portfolio-projects/blob/1c449d4fcff578e0412b8d6b4728e3b10222a7bf/GEE_Land_Cover_Classification_Using_ML.js)
+**Code:** [GEE Land Cover Classification Using ML.js](https://github.com/Kanoksuk-C/portfolio-projects/blob/12d3f3407d5c78f4772f015df3f8994c6e5dea17/GEE_Land_Cover_Classification_Using_ML.js)
 
 **Skills:** geospatial data processing, data classification, confusion matrix, problem-solving, algorithmic thinking
 
